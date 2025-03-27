@@ -32,4 +32,4 @@ Este projeto demonstra a utilização do FreeRTOS para criar um sistema multitar
 | Botão             | Conectado ao GPIO6 (pull-down)     |
 | Cabo USB          | Para alimentação e comunicação     |
 
-### Diagrama de Conexões
+
